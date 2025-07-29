@@ -4,6 +4,8 @@
 
 # streamlit run frontend.py
 
+docker pull prashant876/insurance_premium_api
+
 
 
 
